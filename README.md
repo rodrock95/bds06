@@ -1,4 +1,5 @@
 # movieFlix
+https://github.com/rodrock95/movieFlix/blob/main/LICENSE
 
 # Sobre o projeto
 O sistema MovieFlix consiste em um banco de filmes, os quais podem ser listados e avaliados pelos usuários. Usuários podem ser 
